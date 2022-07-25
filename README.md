@@ -7,3 +7,4 @@ repositorio destinado a armazenar minha evolução como desenvolvedor
   
 Notas:  
 1- Projeto finance(html+css+bootstrap4)
+2- Projeto Spotify(html+css+bootstrap4)
